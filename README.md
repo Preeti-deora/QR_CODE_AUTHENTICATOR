@@ -128,10 +128,10 @@ https://drive.google.com/file/d/1ccVSe8A57nMAjPk67PYrFi7FvWZJYocg/view?usp=shari
 
 
 
-- **Model Optimization**: Experimenting with different architectures and hyperparameters.
-- **Deployment**: Integrating the model into a real-time authentication system.
-- **Expand dataset** for better generalization.
-- **Implement real-time scanning** with mobile applications.
-- **Optimize CNN architecture** for faster inference.
+ **Model Optimization**: Experimenting with different architectures and hyperparameters.
+ **Deployment**: Integrating the model into a real-time authentication system.
+ **Expand dataset** for better generalization.
+ **Implement real-time scanning** with mobile applications.
+ **Optimize CNN architecture** for faster inference.
 
 
