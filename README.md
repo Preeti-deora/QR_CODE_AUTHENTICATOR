@@ -114,10 +114,10 @@ pip install -r requirements.txt
 - CNN Model:
 https://drive.google.com/file/d/1qKVF7bpt6rfI07VLH3ODIZ6UmSKaeyt0/view?usp=sharing
 
-X_train_features.npy
+-X_train_features.npy
 https://drive.google.com/file/d/1ghkJtpSi04m1ry4-f4U0y9oWRBF1jjYD/view?usp=drive_link
 
-X_train.npy
+-X_train.npy
 https://drive.google.com/file/d/1ccVSe8A57nMAjPk67PYrFi7FvWZJYocg/view?usp=sharing
 
 
