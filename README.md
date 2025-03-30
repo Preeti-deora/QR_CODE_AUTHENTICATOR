@@ -109,6 +109,25 @@ pip install -r requirements.txt
 
 ## Future Work
 - **Robustness Testing**: Evaluating performance on real-world noisy QR codes.
+
+##**Download Pretrained models**
+- CNN Model:
+https://drive.google.com/file/d/1qKVF7bpt6rfI07VLH3ODIZ6UmSKaeyt0/view?usp=sharing
+
+X_train_features.npy
+https://drive.google.com/file/d/1ghkJtpSi04m1ry4-f4U0y9oWRBF1jjYD/view?usp=drive_link
+
+X_train.npy
+https://drive.google.com/file/d/1ccVSe8A57nMAjPk67PYrFi7FvWZJYocg/view?usp=sharing
+
+
+
+
+
+
+
+
+
 - **Model Optimization**: Experimenting with different architectures and hyperparameters.
 - **Deployment**: Integrating the model into a real-time authentication system.
 - **Expand dataset** for better generalization.
